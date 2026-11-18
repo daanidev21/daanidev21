@@ -1,59 +1,66 @@
-<div style="width: 100%; height: 200px; overflow: hidden;">
-  <a href="https://rishavchanda.io">
-    <img src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTg4OTc0OTcsIm5iZiI6MTcxODg5NzE5NywicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjIwVDE1MjYzN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTViNGM0NTVlZjc5M2MyNTYwM2M0Nzk4ZGI1OWYxNjU0ZGQxODViMWRkNWNhM2U1YjMyMDA0NGYyMzA4OGUxNmYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.QUDIikndl73Xnmkk_QSi5kBxJUp8FHE5whIkT0DUjgc" alt="MasterHead" style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px;">
-  </a>
-</div>
-
-
-# Hi there 👋
-
-¡Bienvenidos a mi GitHub! Soy estudiante de primer año de Desarrollo de Aplicaciones Multiplataforma (DAM).
-
-Mi nombre es Dani, siempre he tenido una gran pasión por la informática, aunque últimamente la programación es lo que mas me llamaba la atención. 
-Desde que empecé mis estudios en DAM, he estado explorando diversos lenguajes de programación y herramientas. Además, me gustaría profundizar en el campo de la ciberseguridad, ya que considero que es un campo muy interesante y con grandes oportunidades de crecimiento.
-
-##
-
-### Mis Intereses
-
-- 🌐 Ciberseguridad: Estoy comenzando a aprender sobre este fascinante campo para entender
-cómo proteger aplicaciones y datos.
-- 📚 Educación Continua: Me encanta aprender cosas nuevas cada día, ya sea a través de cursos,
-tutoriales en línea o proyectos prácticos.
-- 💻 Desarrollo de Software: Desde aplicaciones móviles hasta desarrollo web, me apasiona crear soluciones que puedan ayudar a las personas.
-
-##
-
-| <a href="https://github.com/daanidev21"><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50" height="50"></a> | Lenguajes y herramientas en proceso de aprendizaje |
-|:--:|:--:|
-
-
-<img align="right" alt="Coding" width="250" src="https://i.redd.it/1d11s820dgm91.gif">
-
-##### Lenguajes de Programación
-- 🐍 Python: Ideal para scripting y desarrollo de aplicaciones web.
-- ☕ Java: Fundamental para el desarrollo de aplicaciones multiplataforma.
-- 🌐 JavaScript: Usado para hacer las páginas web interactivas.
-- 🖥️ HTML: La estructura básica de cualquier página web.
-- 🎨 CSS: Para darle estilo y diseño a las páginas web.
-  
-#### Bases de Datos
-- 🗄️ SQL: Aprendiendo a manejar y consultar bases de datos relacionales.
-  
-#### Contenedores y virtualización
-- 🐳 Docker: Familiarizándome con la creación y gestión de contenedores para aplicaciones.
-  
-#### Sistemas Operativos y Herramientas
-- 🖥️ Bash en Linux: Utilizo la terminal para administrar y automatizar tareas en sistemas Linux.
-- 🌲 Git: Para control de versiones y colaboración en proyectos.
-
-##
-
-| <a href="https://github.com/daanidev21"><img src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-46-857_512.gif" width="50" height="50"></a> | GitHub Analytics|
-|:--:|:--:|
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0221,100:3b1f7a&height=90&section=header&text=daanidev21&fontSize=34&fontColor=c084fc&fontAlignY=50" alt="Cabecera" />
 
 <div align="center">
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=daanidev21&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" width="400" /> <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=daanidev21&layout=compact&langs_count=8&theme=algolia" width="400" />
-
+  <img src="assets/terminal.svg" alt="Terminal: dani, construyo sistemas que se automatizan solos. Software, electrónica y servidores en casa." width="800" />
 </div>
+
+<br>
+
+## ⭐ Proyectos destacados
+
+### 🚲 BikeMaint
+
+**Cada pieza de tu bici, con su vida útil.** Marca cuántos km o días toca revisarla y te avisa antes de que falle. Web propia, en beta privada, con el backend en mi Raspberry Pi.
+
+<div align="center">
+  <img src="assets/bikemaint-demo.webp" alt="Demo de BikeMaint: vida útil de cada pieza y alertas de desgaste" width="720" />
+  <br><br>
+  <a href="https://bike-maint.com"><img src="https://img.shields.io/badge/Abrir_BikeMaint-c026d3?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=3b1f7a" alt="Abrir BikeMaint" /></a>
+</div>
+
+### 🖥️ Notchpad
+
+**Tu notch, ahora útil.** Un panel para macOS que se abre al pasar el ratón: música, tiempo, apps, bandeja de archivos y estado del Mac. Gratis, de código abierto y sin telemetría.
+
+<div align="center">
+  <img src="assets/notchpad-demo.webp" alt="Demo de Notchpad: panel en el notch con música, tiempo, bandeja de archivos y estadísticas del Mac" width="720" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Pr%C3%B3ximamente-Open_source-c026d3?style=for-the-badge&logo=github&logoColor=white&labelColor=3b1f7a" alt="Próximamente: open source" />
+</div>
+
+## 🔧 En el taller
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🌡️ Clima con Arduino</b><br>
+      Mide temperatura y humedad, regula el clima y se enciende o apaga desde Telegram.
+    </td>
+    <td width="50%" valign="top">
+      <b>🍓 Homelab</b><br>
+      Raspberry Pi con mis webs, el backend de BikeMaint y OctoPrint.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🖨️ Impresoras 3D</b><br>
+      Controladas en remoto con OctoPrint.
+    </td>
+    <td width="50%" valign="top">
+      <b>🧩 <a href="https://github.com/daanidev21/claude-mods">claude-mods</a></b><br>
+      Mods para Claude Code, en TypeScript. Mi único repo público por ahora.
+    </td>
+  </tr>
+</table>
+
+## 🧬 Mi stack
+
+```text
+~/stack
+├── código     JavaScript · TypeScript · Swift · Python · Bash · C++
+├── hardware   Arduino · Raspberry Pi · impresión 3D
+├── infra      Linux · nginx · Cloudflare · Tailscale · Firebase · OctoPrint · self-hosting
+└── ia         LLMs · agentes · automatización
+```
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:3b1f7a,100:0d0221&height=60&section=footer" alt="Pie" />
